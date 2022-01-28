@@ -1,0 +1,9 @@
+rootProject.name = "MakeMineMarvel"
+include ':app'
+include ':core'
+include ':coreandroid'
+include ':FakeImageLoader'
+include ':fakeimageloader'
+include ':ktor'
+include ':kotlinserialization'
+include ':picassoimageloader'
